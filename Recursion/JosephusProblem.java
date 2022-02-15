@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Recursion;
+package Recursion;
 /**
  * @author Vishal Singh */
 public class JosephusProblem {

@@ -1,11 +1,7 @@
-package SummerTrainingGFG.Heap;
+package Heap;
 
 import java.util.PriorityQueue;
 
-/**
- * @author Vishal Singh
- * 16-01-2021
- */
 
 public class PrintKLargestElements {
     public static void getKLargestElements(int[] arr,int n,int k){

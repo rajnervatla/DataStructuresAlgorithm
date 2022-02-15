@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Sorting;
+package Sorting;
 /**
  * @author Vishal Singh */
 public class CountInversionInArray {

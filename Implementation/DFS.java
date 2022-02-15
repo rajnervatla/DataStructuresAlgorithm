@@ -1,9 +1,7 @@
-package SummerTrainingGFG.Implementation;
+package Implementation;
 
 import java.util.Iterator;
 import java.util.LinkedList;
-/**
- * @author Vishal Singh */
 
 public class DFS {
     private int noOfVertices;

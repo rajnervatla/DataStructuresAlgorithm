@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Searching;
+package Searching;
 /**
  * @author Vishal Singh */
 public class FindFloor {

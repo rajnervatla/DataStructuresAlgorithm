@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Hashing;
+package Hashing;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

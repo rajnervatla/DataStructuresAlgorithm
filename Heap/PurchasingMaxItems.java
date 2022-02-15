@@ -1,11 +1,8 @@
-package SummerTrainingGFG.Heap;
+package Heap;
 
 import java.util.PriorityQueue;
 
-/**
- * @author Vishal Singh
- * 16-01-2021
- */
+
 
 public class PurchasingMaxItems {
     public static void purchaseMaxItems(int[] arr,int sum){

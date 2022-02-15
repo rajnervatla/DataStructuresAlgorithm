@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Heap;
+package Heap;
 
 import java.util.Arrays;
 

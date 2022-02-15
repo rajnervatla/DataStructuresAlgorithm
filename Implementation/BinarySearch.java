@@ -1,6 +1,5 @@
-package SummerTrainingGFG.Implementation;
-/**
- * @author Vishal Singh */
+package Implementation;
+
 
 public class BinarySearch {
     int binSearch(int[] arr, int startIndex, int endIndex, int search) {

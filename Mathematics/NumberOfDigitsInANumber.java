@@ -1,6 +1,4 @@
-package SummerTrainingGFG.Mathematics;
-/**
- * @author Vishal Singh */
+package Mathematics;
 
 public class NumberOfDigitsInANumber {
     public static void main(String[] args) {

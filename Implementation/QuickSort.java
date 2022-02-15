@@ -1,6 +1,5 @@
-package SummerTrainingGFG.Implementation;
-/**
- * @author Vishal Singh */
+package Implementation;
+
 
 public class QuickSort {
     private int arr[];

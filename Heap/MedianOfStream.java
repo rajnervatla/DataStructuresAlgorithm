@@ -1,12 +1,7 @@
-package SummerTrainingGFG.Heap;
+package Heap;
 
 import java.util.Collections;
 import java.util.PriorityQueue;
-
-/**
- * @author Vishal Singh
- * 17-01-2021
- */
 
 public class MedianOfStream {
     public static void medianOfStream(int[] arr, int n){

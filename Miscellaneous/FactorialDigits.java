@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Miscellaneous;
+package Miscellaneous;
 
 import java.math.BigInteger;
 /**

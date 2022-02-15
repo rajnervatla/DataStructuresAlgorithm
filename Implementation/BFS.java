@@ -1,9 +1,8 @@
-package SummerTrainingGFG.Implementation;
+package Implementation;
 
 import java.util.Iterator;
 import java.util.LinkedList;
-/**
- * @author Vishal Singh */
+
 
 //Breadth First Search for a graph
 public class BFS {

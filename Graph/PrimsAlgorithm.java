@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Graph;
+package Graph;
 
 import java.util.Arrays;
 

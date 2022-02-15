@@ -1,4 +1,4 @@
-package SummerTrainingGFG.BinarySearchTree;
+package BinarySearchTree;
 
 /**
  * @author Vishal Singh

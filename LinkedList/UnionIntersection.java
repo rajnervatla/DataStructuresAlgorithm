@@ -1,4 +1,4 @@
-package SummerTrainingGFG.LinkedList;
+package LinkedList;
 
 import java.util.HashSet;
 

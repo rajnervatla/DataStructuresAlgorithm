@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Matrix;
+package Matrix;
 /**
  * @author Vishal Singh
  * Sorted Row Wise

@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Arrays;
+package Arrays;
 /**
  * @author Vishal Singh */
 

@@ -1,8 +1,6 @@
-package SummerTrainingGFG.LinkedList;
+package LinkedList;
 
-/**
- * @author Vishal Singh
- */
+
 
 class Node{
     int data;

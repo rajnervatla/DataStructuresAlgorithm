@@ -1,11 +1,8 @@
-package SummerTrainingGFG.Heap;
+package Heap;
 
 import java.util.PriorityQueue;
 
-/**
- * @author Vishal Singh
- * 17-01-2021
- */
+
 
 public class KthLargestInAStream {
     public static int kth(int[] arr, int n, int k){

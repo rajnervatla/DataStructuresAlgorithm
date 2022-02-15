@@ -1,8 +1,7 @@
-package SummerTrainingGFG.Implementation;
+package Implementation;
 
 import java.util.LinkedList;
-/**
- * @author Vishal Singh */
+
 
 public class P_LinkedList {
     public static void main(String[] args) {

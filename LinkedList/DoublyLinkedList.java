@@ -1,8 +1,6 @@
-package SummerTrainingGFG.LinkedList;
+package LinkedList;
 
-/**
- * @author Vishal Singh
- */
+
 public class DoublyLinkedList {
     static class Node{
         int data;

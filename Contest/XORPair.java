@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Contest;
+package Contest;
 
 import java.io.BufferedReader;
 import java.io.IOException;

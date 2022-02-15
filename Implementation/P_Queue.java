@@ -1,8 +1,7 @@
-package SummerTrainingGFG.Implementation;
+package Implementation;
 import java.util.LinkedList;
 import java.util.Queue;
-/**
- * @author Vishal Singh */
+
 public class P_Queue {
     public static void main(String[] args) {
         //Queue<Integer> q = new PriorityQueue<Integer>();

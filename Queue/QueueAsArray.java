@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Queue;
+package Queue;
 
 /**
  * @author Vishal Singh

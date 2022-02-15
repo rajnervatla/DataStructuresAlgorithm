@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Arrays;
+package Arrays;
 
 import java.util.ArrayList;
 /**

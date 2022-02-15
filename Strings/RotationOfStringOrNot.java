@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Strings;
+package Strings;
 
 /**
  * @author Vishal Singh

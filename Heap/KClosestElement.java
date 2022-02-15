@@ -1,12 +1,8 @@
-package SummerTrainingGFG.Heap;
+package Heap;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
-/**
- * @author Vishal Singh
- * 16-01-2021
- */
 
 public class KClosestElement {
     static class Pair {

@@ -1,4 +1,4 @@
-package SummerTrainingGFG.BitManipulation;
+package BitManipulation;
 /**
  * @author Vishal Singh */
 

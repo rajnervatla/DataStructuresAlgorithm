@@ -1,8 +1,7 @@
-package SummerTrainingGFG.Implementation;
+package Implementation;
 
 import java.util.Stack;
-/**
- * @author Vishal Singh */
+
 
 public class P_Stack {
     public static void main(String[] args) {

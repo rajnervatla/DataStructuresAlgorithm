@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Tree;
+package Tree;
 
 import java.util.ArrayList;
 

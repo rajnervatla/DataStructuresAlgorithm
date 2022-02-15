@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Queue;
+package Queue;
 
 import java.util.LinkedList;
 import java.util.Queue;

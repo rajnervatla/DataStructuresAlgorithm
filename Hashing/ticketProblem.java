@@ -16,7 +16,7 @@ Bombay->Delhi, Delhi->Goa, Goa->Chennai, Chennai->Banglore,
 
  */
 
-package com.company.JavaDaily;
+package Hashing;
 
 import java.util.HashMap;
 import java.util.Map;

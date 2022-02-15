@@ -1,4 +1,4 @@
-package SummerTrainingGFG.BinarySearchTree;
+package BinarySearchTree;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Implementation;
+package Implementation;
 
 import java.util.Arrays;
 

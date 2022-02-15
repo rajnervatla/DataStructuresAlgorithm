@@ -1,14 +1,10 @@
-package SummerTrainingGFG.Heap;
+package Heap;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.PriorityQueue;
 
-/**
- * @author Vishal Singh
- * 17-01-2021
- */
 
 public class MergeKSortedArrays {
     static class Triplet implements Comparable<Triplet> {

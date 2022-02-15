@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Sorting;
+package Sorting;
 
 import java.util.ArrayList;
 import java.util.Arrays;

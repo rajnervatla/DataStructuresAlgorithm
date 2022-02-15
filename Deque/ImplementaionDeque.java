@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Deque;
+package Deque;
 
 import java.util.ArrayDeque;
 

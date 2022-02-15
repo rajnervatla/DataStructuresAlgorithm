@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Mathematics;
+package Mathematics;
 /**
  * @author Vishal Singh */
 

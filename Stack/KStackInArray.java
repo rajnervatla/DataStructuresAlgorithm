@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Stack;
+package Stack;
 
 /**
  * @author Vishal Singh

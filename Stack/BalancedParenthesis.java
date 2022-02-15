@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Stack;
+package Stack;
 
 import java.util.Stack;
 /**

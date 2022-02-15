@@ -1,4 +1,4 @@
-package SummerTrainingGFG.Miscellaneous;
+package Miscellaneous;
 /**
  * @author Vishal Singh */
 

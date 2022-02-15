@@ -1,12 +1,9 @@
-package SummerTrainingGFG.Heap;
+package Heap;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
-/**
- * @author Vishal Singh
- * 16-01-2021
- */
+
 
 public class SortKSortedArray {
     public static void sortKSortedArray(int[] arr, int n, int k) {
